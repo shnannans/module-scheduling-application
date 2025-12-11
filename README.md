@@ -323,7 +323,7 @@ The application currently supports **25+ diverse programs** including:
 **Team P2-5 - INF1008 Data Structures and Algorithms**
 
 | Name | Contributions |
-|------|------------|---------------|
+|------|---------------|
 | **Goh Jing Wen** | Algorithm implementation, cycle detection logic |
 | **Venecia Weng** | GUI design, Tkinter interface development |
 | **Jeanie Cherie Chua Yue-Ning** | Data structure design, JSON file management |
